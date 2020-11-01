@@ -1,0 +1,11 @@
+@import './SignUpDesktop.mixin';
+
+.container-login {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.rex-sign-up-desktop {
+    @include rex-sign-up-desktop();
+}

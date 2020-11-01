@@ -1,2 +1,2 @@
 # This project used coreUI 
-## about license please to see https://coreui.io/
+## about UI license please to see https://coreui.io/
